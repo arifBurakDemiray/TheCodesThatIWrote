@@ -1,0 +1,18 @@
+Book,Ruzgarlar Hep Genctir,20,2019,Zulfu Livaneli
+Movie,Harry Potter ve Felsefe Tasi,12,2010,Chris Columbus,,Daniel Radcliffe
+Book,Olaganustu Bir Gece,6,2017,Stefan Zweig
+Book,Icimizdeki Seytan,5,2017,Sabahattin Ali
+Movie,Sazan Sarmali,24,2019,Yilmaz Erdogan,,Yilmaz Erdogan
+Movie,Interstellar,37,2016,Christopher Nolan,Anne Hathaway,Matthew McConaughey
+Book,Bütün Siirleri,9,2018,Sabahattin Ali
+Book,Simyaci,10,2016,Paulo Coelho
+Movie,Harry Potter ve Askaban Tutsagi,35,2011,Alfonso Cuaron,,Daniel Radcliffe
+Movie,Altin Pusula,32,2007,Chris Weitz,Nicole Kidman
+Movie,Digerleri,30,2001,Alejandro Amenabar,Nicole Kidman
+Book,1984,22,2014,George Orwell
+Movie,Kelebegin Ruyasi,17,2016,Yilmaz Erdogan,,Kivanc Tatlitug
+Movie,Inception,33,2014,Christopher Nolan,,Leonarda DiCaprio
+Book,Kurk Mantolu Madonna,11,2018,Sabahattin Ali
+Book,Insan ne ile Yasar,21,2019,Tolstoy
+
+

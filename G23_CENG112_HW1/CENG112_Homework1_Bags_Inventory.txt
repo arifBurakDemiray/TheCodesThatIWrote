@@ -1,0 +1,58 @@
+banana,organic,7
+potato,organic,8
+slice of cheese,organic,10
+loaf of bread,organic,3
+tomato,organic,6
+cucumber,organic,4
+green pepper,organic,5
+red pepper,organic,5
+slice of salami,organic,10
+orange,organic,5
+egg,organic,10
+lettuce,organic,1
+bunch of parsley,organic,2
+onion,organic,5
+apple,organic,4
+lemon,organic,5
+pear,organic,5
+watermelon,organic,1
+walnut,organic,7
+hazelnut,organic,15
+pineapple,organic,3
+kiwi,organic,7
+grape,organic,2
+tangerine,organic,4
+peach,organic,8
+appricot,organic,4
+avocado,organic,2
+melon,organic,3
+bunch of rucola,organic,3
+eggplant,organic,6
+carrot,organic,5
+turnip,organic,3
+packet of cream cheese,plastic,3
+packet of cookie,plastic,3
+packet of chips,plastic,3
+bottle of water,plastic,10
+packet of coffee,plastic,7
+packet of butter,plastic,1
+packet of olive,plastic,2
+packet of peanut,plastic,3
+packet of bacon,plastic,2
+packet of yogurt,plastic,3
+bottle of milk,plastic,2
+packet of chocolate,plastic,5
+packet of mushroom,plastic,2
+fork,plastic,6
+knife,plastic,6
+spoon,plastic,6
+plate,plastic,6
+cup,plastic,6
+packet of tissue,paper,3
+packet of tea,paper,2
+packet of salt,paper,5
+packet of sugar,paper,5
+packet of muffin,paper,2
+packet of brownie,paper,3
+paper towel,paper,4
+table cover,paper,1
