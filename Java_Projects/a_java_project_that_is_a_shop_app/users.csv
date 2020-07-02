@@ -1,0 +1,12 @@
+"user type,user name,password,active balance,telephone,email,shop category,shop title,tax number,address title,country,city,district,street,door number							"
+3,art,kcts1996,100000,0850 209 5050,info@arthouseware.com,houseware,ART HOUSEWARE,TN9872012456211221,ART HOUSEWARE URLA,turkey,izmir,urla,Samanyolu Sok.,no:6/49,ART HOUSEWARE MAVISEHIR,turkey,izmir,cigli,Cahar Dudayev Bulvari,41/A
+3,accessories,home2019,5000000,(0232) 220 30 35,info@homeaccessories.com,accessories,HOME ACCESSORIES,TN1012892019085720,HOME ACCESSORIES GAZIEMIR,turkey,izmir,gaziemir,akcay cd,no:20D
+3,multimedia,2019media,200000,0850 222 1500,info@multimedia.com,electronic,MULTIMEDIA ELECTRONIC,TN9874561993201248,MULTIMEDIA ELECTRONIC BALCOVA,turkey,izmir,balcova,mithatpasa cd.,no:1442
+3,beauty,csmtc211,10000000,0850 288 35 35,info@beauty.com,cosmetic,BEAUTY COSMETIC,TN1234567891011121,BEAUTY COSMETIC BORNOVA,turkey,izmir,bornova,4174 sk,no:4,BEAUTY COSMETIC SISLI,turkey,istanbul,sisli,buyukdere cd,no:185
+2,janedoe,jn1234,10000,0232 750 7882,janedoe@iyte.edu.tr, , , ,office,turkey,izmir,urla,gulbahce cd,no:234
+2,johndoe,4321john,15000,+90 532 345 4356,johndoe@iyte.edu.tr, , , ,home,turkey,izmir,karaburun,nergis sk,no:5B
+2,dilek,1234,5000,0232 750 7874,dilekozturk@iyte.edu.tr, , , ,office,turkey,izmir,urla,iyte bilgisayar muhendisligi,no:112
+2,samet,1234,5000,0232 750 7869,samettenekeci@iyte.edu.tr, , , ,office,turkey,izmir,urla,iyte bilgisayar muhendisligi,no:136
+2,serhat,1234,5000,0232 750 7867,serhatcaner@iyte.edu.tr, , , ,office,turkey,izmir,urla,iyte bilgisayar muhendisligi,no:140
+1,admin,adminpsw,1000
+2,as,as,0,as,as, , , ,as,as,as,as,as,as
