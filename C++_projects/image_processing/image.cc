@@ -572,17 +572,6 @@ void Image::warp_affine(Image *Ir, double A[4],double t[2],bool bilinear_samplin
         Ir->m_data = new_data;
 }
 
-
-Image *Image::from_png(const std::string &filename, bool load_as_grayscale)
-{
-        // Allocate small temporary image
-        Image *img = new_gray(1, 1);
-        if (!img->load_png(filename, load_as_grayscale)) {
-                exit(EXIT_FAILURE);
-        }
-        return img;
-}
-
 Image *Image::from_deriv(int width, int height, const short *deriv)
 {
         ...
