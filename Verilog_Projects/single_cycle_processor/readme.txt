@@ -1,1 +1,2 @@
-This file is going to hold a cpu design in Verilog language. Also, it is going to hold some other little designs.
+This file contains single cycle processor implementation
+It can compute basic MIPS instructions and complicated branch instructions which is mentioned in Addition file.
