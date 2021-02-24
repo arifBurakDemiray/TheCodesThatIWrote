@@ -103,10 +103,14 @@ public class TransactionQueueList<T> implements ILinkedList<T>{
 		TransactionQueue<T> tempQ=this.head;
 		Transaction<T> tempT=tempQ.getHead();
 		for(int i=0;i<listLength;i++) {
+			if(tempT==null)
+				break;
 			System.out.println(tempQ.getDate()+" COUNTER <- "+tempT.getID()+"|"+tempT.getCus().getType()+"|"+tempT.getOccupation()+"|"+tempT.getWaiting());
 			for(int a=0;a<tempQ.getQueueLength();a++) {
-			System.out.print(" <- "+tempT.getID()+"|"+tempT.getCus().getType()+"|"+tempT.getOccupation()+"|"+tempT.getWaiting());
-			tempT=tempT.getNextT();}
+				if(tempT==null)
+					break;
+				System.out.print(" <- "+tempT.getID()+"|"+tempT.getCus().getType()+"|"+tempT.getOccupation()+"|"+tempT.getWaiting());
+				tempT=tempT.getNextT();}
 			tempQ=tempQ.getNext();}
 	}
 }

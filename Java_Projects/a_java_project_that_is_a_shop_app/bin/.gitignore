@@ -1,4 +1,10 @@
+/.classpath
+/.project
+/App/
+/Elements/
 /Exceptions/
 /FileIO/
 /Storage/
+/products.csv
 /src/
+/users.csv
