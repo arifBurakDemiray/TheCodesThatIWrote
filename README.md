@@ -8,7 +8,6 @@ You can look written projects from below links.
 * [C Projects](https://github.com/arifBurakDemiray/TheCodesThatIWrote/tree/master/C_Projects)
 * [C++ Projects](https://github.com/arifBurakDemiray/TheCodesThatIWrote/tree/master/C%2B%2B_projects)
 * [Python Projects](https://github.com/arifBurakDemiray/TheCodesThatIWrote/tree/master/Python_Projects)
-* [Assembly Projects](https://github.com/arifBurakDemiray/TheCodesThatIWrote/tree/master/Assembly_Projects)
 * [SQL Projects](https://github.com/arifBurakDemiray/TheCodesThatIWrote/tree/master/SQL_Projects)
 * [Verilog Projects](https://github.com/arifBurakDemiray/TheCodesThatIWrote/tree/master/Verilog_Projects)
 * [Scheme Projects](https://github.com/arifBurakDemiray/TheCodesThatIWrote/tree/master/Scheme_Projects)
