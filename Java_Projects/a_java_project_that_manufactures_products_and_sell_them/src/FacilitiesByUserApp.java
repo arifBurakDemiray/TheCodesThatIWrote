@@ -16,10 +16,6 @@ import Program.PreProgram;
 
 
 public class FacilitiesByUserApp {
-	public static void yazdır(int sayı) {
-		System.out.println(sayı);
-		
-	}
 
 	public static void main(String[] args) {
 		IPreProgram prgm = new PreProgram();
@@ -46,7 +42,7 @@ public class FacilitiesByUserApp {
 
         }
         if(sayı == 0) {
-        	yazdır(bolum);
+        	System.out.println(bolum);
         }
         
         
