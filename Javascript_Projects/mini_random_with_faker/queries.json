@@ -1,0 +1,802 @@
+[
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-12T02:55:49.077Z",
+        "fee": 56,
+        "section_id": 6,
+        "start_time": "2021-06-12T00:41:43.076Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-30T19:09:01.215Z",
+        "fee": 54,
+        "section_id": 6,
+        "start_time": "2021-05-30T18:02:24.836Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-09T16:45:33.207Z",
+        "fee": 18,
+        "section_id": 7,
+        "start_time": "2021-07-09T09:15:22.839Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-09T06:55:26.211Z",
+        "fee": 136,
+        "section_id": 6,
+        "start_time": "2021-06-09T06:25:54.260Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-20T01:54:44.937Z",
+        "fee": 87,
+        "section_id": 7,
+        "start_time": "2021-07-19T20:36:03.703Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-19T03:08:44.056Z",
+        "fee": 2,
+        "section_id": 6,
+        "start_time": "2021-07-19T00:56:39.341Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-23T03:29:45.197Z",
+        "fee": 92,
+        "section_id": 7,
+        "start_time": "2021-06-23T02:34:26.010Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-27T18:42:17.053Z",
+        "fee": 148,
+        "section_id": 7,
+        "start_time": "2021-05-27T17:52:57.946Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-05T23:20:25.109Z",
+        "fee": 132,
+        "section_id": 7,
+        "start_time": "2021-05-05T22:43:54.128Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-08T03:51:53.952Z",
+        "fee": 45,
+        "section_id": 7,
+        "start_time": "2021-05-07T12:57:00.534Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-15T07:29:56.689Z",
+        "fee": 52,
+        "section_id": 7,
+        "start_time": "2021-05-15T05:15:09.859Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-03T17:47:02.043Z",
+        "fee": 103,
+        "section_id": 7,
+        "start_time": "2021-06-03T16:40:11.022Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-04-25T14:30:13.554Z",
+        "fee": 38,
+        "section_id": 6,
+        "start_time": "2021-04-25T09:23:33.251Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-15T09:49:19.171Z",
+        "fee": 105,
+        "section_id": 6,
+        "start_time": "2021-07-14T23:06:34.712Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-21T05:35:41.183Z",
+        "fee": 13,
+        "section_id": 6,
+        "start_time": "2021-06-21T01:27:29.520Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-11T07:06:48.339Z",
+        "fee": 129,
+        "section_id": 7,
+        "start_time": "2021-06-10T18:10:55.525Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-25T11:01:36.037Z",
+        "fee": 88,
+        "section_id": 7,
+        "start_time": "2021-06-25T01:52:14.322Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-05T02:24:09.671Z",
+        "fee": 115,
+        "section_id": 7,
+        "start_time": "2021-05-04T02:52:29.652Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-18T10:01:04.999Z",
+        "fee": 109,
+        "section_id": 6,
+        "start_time": "2021-07-17T21:25:00.691Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-19T23:20:43.128Z",
+        "fee": 116,
+        "section_id": 6,
+        "start_time": "2021-05-19T23:09:47.512Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-07T10:38:32.950Z",
+        "fee": 46,
+        "section_id": 7,
+        "start_time": "2021-07-07T04:18:29.809Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-16T06:17:01.307Z",
+        "fee": 87,
+        "section_id": 6,
+        "start_time": "2021-07-15T23:18:28.241Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-07T09:58:28.260Z",
+        "fee": 148,
+        "section_id": 7,
+        "start_time": "2021-07-06T20:02:27.108Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-15T23:36:48.388Z",
+        "fee": 70,
+        "section_id": 6,
+        "start_time": "2021-05-15T17:22:25.534Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-05T06:23:05.152Z",
+        "fee": 27,
+        "section_id": 7,
+        "start_time": "2021-05-05T04:24:46.814Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-07T22:20:06.804Z",
+        "fee": 47,
+        "section_id": 7,
+        "start_time": "2021-05-07T19:03:22.692Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-15T15:29:39.714Z",
+        "fee": 105,
+        "section_id": 7,
+        "start_time": "2021-07-15T10:17:46.144Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-01T13:28:01.995Z",
+        "fee": 45,
+        "section_id": 6,
+        "start_time": "2021-04-30T22:40:24.934Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-13T11:46:13.188Z",
+        "fee": 108,
+        "section_id": 6,
+        "start_time": "2021-06-13T11:11:41.270Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-20T16:37:30.285Z",
+        "fee": 61,
+        "section_id": 7,
+        "start_time": "2021-06-20T07:42:14.447Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-01T18:59:50.316Z",
+        "fee": 71,
+        "section_id": 6,
+        "start_time": "2021-05-01T17:14:31.835Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-26T14:39:05.955Z",
+        "fee": 69,
+        "section_id": 7,
+        "start_time": "2021-06-26T03:18:29.273Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-19T10:06:20.092Z",
+        "fee": 1,
+        "section_id": 7,
+        "start_time": "2021-05-19T06:30:01.861Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-16T21:05:46.913Z",
+        "fee": 72,
+        "section_id": 7,
+        "start_time": "2021-06-16T19:03:03.120Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-05T00:12:14.213Z",
+        "fee": 14,
+        "section_id": 6,
+        "start_time": "2021-05-04T13:31:51.060Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-02T15:48:41.396Z",
+        "fee": 11,
+        "section_id": 6,
+        "start_time": "2021-05-02T11:14:52.200Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-04-27T20:35:49.383Z",
+        "fee": 56,
+        "section_id": 7,
+        "start_time": "2021-04-27T07:46:13.054Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-07T06:49:24.856Z",
+        "fee": 105,
+        "section_id": 7,
+        "start_time": "2021-07-07T00:58:25.782Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-07T07:58:08.122Z",
+        "fee": 117,
+        "section_id": 6,
+        "start_time": "2021-05-06T23:45:27.805Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-22T20:47:08.787Z",
+        "fee": 104,
+        "section_id": 6,
+        "start_time": "2021-05-22T14:07:29.619Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-04-30T15:05:08.032Z",
+        "fee": 2,
+        "section_id": 6,
+        "start_time": "2021-04-30T14:10:46.497Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-20T14:50:35.759Z",
+        "fee": 55,
+        "section_id": 6,
+        "start_time": "2021-07-20T02:19:59.996Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-05T03:17:11.950Z",
+        "fee": 42,
+        "section_id": 6,
+        "start_time": "2021-07-04T18:15:03.137Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-21T07:17:58.172Z",
+        "fee": 87,
+        "section_id": 7,
+        "start_time": "2021-07-21T06:54:53.574Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-10T23:29:47.423Z",
+        "fee": 19,
+        "section_id": 6,
+        "start_time": "2021-07-10T22:49:28.893Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-08T18:31:41.167Z",
+        "fee": 8,
+        "section_id": 7,
+        "start_time": "2021-05-08T10:17:55.688Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-04T02:52:09.671Z",
+        "fee": 70,
+        "section_id": 6,
+        "start_time": "2021-07-03T13:52:38.689Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-20T10:54:12.944Z",
+        "fee": 59,
+        "section_id": 7,
+        "start_time": "2021-07-20T04:43:59.195Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-24T00:31:08.445Z",
+        "fee": 115,
+        "section_id": 6,
+        "start_time": "2021-06-23T10:10:18.772Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-14T23:32:31.965Z",
+        "fee": 73,
+        "section_id": 7,
+        "start_time": "2021-06-14T20:52:41.849Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-19T06:03:58.762Z",
+        "fee": 62,
+        "section_id": 7,
+        "start_time": "2021-06-19T05:57:18.016Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-07T13:55:25.171Z",
+        "fee": 16,
+        "section_id": 7,
+        "start_time": "2021-07-07T07:45:23.730Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-12T05:07:08.791Z",
+        "fee": 57,
+        "section_id": 6,
+        "start_time": "2021-06-11T23:29:14.971Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-25T08:12:40.510Z",
+        "fee": 24,
+        "section_id": 6,
+        "start_time": "2021-05-24T23:53:55.959Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-11T08:47:08.317Z",
+        "fee": 72,
+        "section_id": 7,
+        "start_time": "2021-06-11T08:27:26.285Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-21T15:20:29.620Z",
+        "fee": 31,
+        "section_id": 6,
+        "start_time": "2021-07-21T07:42:23.244Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-11T00:04:17.184Z",
+        "fee": 71,
+        "section_id": 7,
+        "start_time": "2021-06-10T22:01:18.783Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-24T13:59:58.078Z",
+        "fee": 52,
+        "section_id": 6,
+        "start_time": "2021-05-24T12:50:46.636Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-10T02:14:51.964Z",
+        "fee": 54,
+        "section_id": 7,
+        "start_time": "2021-07-10T01:19:05.250Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-06T02:07:43.120Z",
+        "fee": 2,
+        "section_id": 7,
+        "start_time": "2021-07-06T00:34:20.348Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-22T22:35:38.120Z",
+        "fee": 36,
+        "section_id": 7,
+        "start_time": "2021-05-22T21:59:38.439Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-27T09:09:18.999Z",
+        "fee": 136,
+        "section_id": 7,
+        "start_time": "2021-06-26T23:23:40.470Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-31T17:41:34.420Z",
+        "fee": 114,
+        "section_id": 6,
+        "start_time": "2021-05-31T12:11:29.080Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-13T07:01:48.358Z",
+        "fee": 26,
+        "section_id": 6,
+        "start_time": "2021-06-13T06:39:33.521Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-11T20:23:21.084Z",
+        "fee": 96,
+        "section_id": 7,
+        "start_time": "2021-05-11T16:56:21.900Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-24T23:47:20.583Z",
+        "fee": 96,
+        "section_id": 6,
+        "start_time": "2021-05-24T22:03:35.342Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-23T19:24:47.888Z",
+        "fee": 86,
+        "section_id": 6,
+        "start_time": "2021-07-23T09:19:49.333Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-04-28T00:28:58.079Z",
+        "fee": 58,
+        "section_id": 6,
+        "start_time": "2021-04-27T20:13:20.101Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-14T06:29:10.722Z",
+        "fee": 148,
+        "section_id": 7,
+        "start_time": "2021-05-14T04:57:07.725Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-04-24T12:02:44.357Z",
+        "fee": 25,
+        "section_id": 7,
+        "start_time": "2021-04-24T08:53:43.757Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-31T17:40:03.759Z",
+        "fee": 89,
+        "section_id": 6,
+        "start_time": "2021-05-31T15:51:47.137Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-03T07:24:58.945Z",
+        "fee": 50,
+        "section_id": 6,
+        "start_time": "2021-07-03T02:38:00.946Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-07-06T03:51:45.772Z",
+        "fee": 27,
+        "section_id": 7,
+        "start_time": "2021-07-06T02:43:19.953Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-14T17:40:31.945Z",
+        "fee": 98,
+        "section_id": 6,
+        "start_time": "2021-06-14T11:46:15.590Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-14T03:24:10.205Z",
+        "fee": 129,
+        "section_id": 7,
+        "start_time": "2021-05-13T16:30:59.368Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-13T00:34:23.416Z",
+        "fee": 129,
+        "section_id": 7,
+        "start_time": "2021-05-12T23:20:54.955Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-19T15:26:01.892Z",
+        "fee": 95,
+        "section_id": 6,
+        "start_time": "2021-06-19T08:24:55.653Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-21T07:26:13.240Z",
+        "fee": 120,
+        "section_id": 6,
+        "start_time": "2021-05-21T05:42:40.586Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-29T07:04:48.387Z",
+        "fee": 101,
+        "section_id": 7,
+        "start_time": "2021-05-28T20:11:00.219Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-01T18:41:08.316Z",
+        "fee": 58,
+        "section_id": 6,
+        "start_time": "2021-06-01T16:45:20.991Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-19T08:40:20.311Z",
+        "fee": 126,
+        "section_id": 7,
+        "start_time": "2021-05-19T05:04:15.641Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-30T04:33:39.042Z",
+        "fee": 122,
+        "section_id": 6,
+        "start_time": "2021-06-29T14:47:50.882Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-04-24T19:17:34.892Z",
+        "fee": 143,
+        "section_id": 7,
+        "start_time": "2021-04-24T19:03:39.438Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-28T11:20:36.603Z",
+        "fee": 8,
+        "section_id": 7,
+        "start_time": "2021-06-27T22:47:02.545Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-09T11:51:04.297Z",
+        "fee": 30,
+        "section_id": 7,
+        "start_time": "2021-06-09T02:48:06.943Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-22T12:57:25.419Z",
+        "fee": 73,
+        "section_id": 6,
+        "start_time": "2021-07-22T00:06:56.672Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-12T17:15:31.862Z",
+        "fee": 123,
+        "section_id": 7,
+        "start_time": "2021-05-12T15:27:06.300Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-04-24T18:14:48.031Z",
+        "fee": 82,
+        "section_id": 7,
+        "start_time": "2021-04-24T17:45:53.596Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-04-27T11:43:29.031Z",
+        "fee": 76,
+        "section_id": 6,
+        "start_time": "2021-04-26T21:38:16.383Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-04T23:59:29.064Z",
+        "fee": 70,
+        "section_id": 6,
+        "start_time": "2021-06-04T20:57:35.236Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-06-12T23:56:40.712Z",
+        "fee": 117,
+        "section_id": 6,
+        "start_time": "2021-06-12T18:46:21.867Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-22T07:35:18.241Z",
+        "fee": 101,
+        "section_id": 6,
+        "start_time": "2021-05-22T03:23:13.179Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-11T15:44:35.573Z",
+        "fee": 40,
+        "section_id": 6,
+        "start_time": "2021-05-10T23:12:33.366Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-07-08T20:31:35.527Z",
+        "fee": 111,
+        "section_id": 6,
+        "start_time": "2021-07-08T16:48:45.106Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-04-24T16:42:25.789Z",
+        "fee": 128,
+        "section_id": 7,
+        "start_time": "2021-04-24T09:07:22.241Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-08T00:27:29.887Z",
+        "fee": 135,
+        "section_id": 7,
+        "start_time": "2021-05-07T07:34:07.038Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-23T15:49:59.440Z",
+        "fee": 149,
+        "section_id": 7,
+        "start_time": "2021-05-23T03:29:14.005Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-05-03T08:28:20.307Z",
+        "fee": 61,
+        "section_id": 7,
+        "start_time": "2021-05-03T08:07:59.600Z",
+        "type": "ENTER"
+    },
+    {
+        "activist_type": "TICKETED",
+        "end_time": "2021-06-01T09:49:33.880Z",
+        "fee": 26,
+        "section_id": 7,
+        "start_time": "2021-06-01T05:10:10.202Z",
+        "type": "EXIT"
+    },
+    {
+        "activist_type": "SUBSCRIBER",
+        "end_time": "2021-05-28T15:41:24.908Z",
+        "fee": 5,
+        "section_id": 6,
+        "start_time": "2021-05-28T14:15:23.768Z",
+        "type": "ENTER"
+    }
+]

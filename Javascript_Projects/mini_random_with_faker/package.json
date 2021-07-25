@@ -1,0 +1,14 @@
+{
+  "name": "mini_random_faker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dateformat": "^4.4.1",
+    "faker": "^5.1.0",
+    "jsonfile": "^6.1.0"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
